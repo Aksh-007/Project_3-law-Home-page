@@ -23,7 +23,7 @@
 ---
 
  
-## Project 3 [Live Link]([https://github.com/Aksh-007?tab=repositories](https://law-landing-home-page.netlify.app/))
+## Project 3 [Live Link](https://github.com/Aksh-007?tab=repositories](https://law-landing-home-page.netlify.app/)
 
 -   Skills Gained in this project
     -  Learned about background Images
