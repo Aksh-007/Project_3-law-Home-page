@@ -23,7 +23,7 @@
 ---
 
  
-## Project 3 ![Live Link](https://github.com/Aksh-007?tab=repositories](https://law-landing-home-page.netlify.app/)
+## Paytm Clone [Live Link]([https://paytm-clone-by-akshay-barapatre.netlify.app/](https://law-landing-home-page.netlify.app/))
 
 -   Skills Gained in this project
     -  Learned about background Images
